@@ -53,7 +53,7 @@
 最后一个模块将讲解不同实际操作场景中的性能测试分析过程，比如实际的瓶颈预判的过程是怎么样的，这么分析出根本原因，如何提出具体的解决方案，最后的实施效果又是怎样的。
 
 性能测试实战知识框架图
-![performance_testing_knowledge_map.jpeg](https://github.com/yumushui/develop/blob/master/Test/gaolou_performance_testing/performance_testing_knowledge_map.jpeg  "performance_testing_knowledge_map.jpeg")
+![performance_testing_knowledge_map](https://github.com/yumushui/develop/blob/master/Test/gaolou_performance_testing/performance_testing_knowledge_map.jpeg  "performance_testing_knowledge_map")
 
 
 ###   The course catalog
@@ -61,6 +61,7 @@
 《性能测试实战30讲》
 
 ```
+https://time.geekbang.org/column/intro/264
 ```
 
 ```
