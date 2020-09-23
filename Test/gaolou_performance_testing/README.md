@@ -53,7 +53,8 @@
 最后一个模块将讲解不同实际操作场景中的性能测试分析过程，比如实际的瓶颈预判的过程是怎么样的，这么分析出根本原因，如何提出具体的解决方案，最后的实施效果又是怎样的。
 
 性能测试实战知识框架图
-![performance_testing_knowledge_map.jpeg](  "performance_testing_knowledge_map.jpeg")
+![performance_testing_knowledge_map](https://github.com/yumushui/develop/blob/master/Test/gaolou_performance_testing/performance_testing_knowledge_map.jpeg  "performance_testing_knowledge_map")
+
 
 
 ###   The course catalog
@@ -61,10 +62,12 @@
 《性能测试实战30讲》
 
 ```
+https://time.geekbang.org/column/intro/264
 ```
 
 ```
 开篇词  “老板，之前咱 TPS是100，我优化完是 10000
+
 ```
 
 ###  第一模块： 性能测试基础篇
@@ -105,6 +108,13 @@
 
 15  性能测试场景： 如何进行监控设计？
 
+
+-- 春节策划
+
+春节策划  性能评估和性能分析试题，等你挑战！
+
+春节策划  快来挑战一下自己的分析逻辑吧！
+
 ```
 
 
@@ -113,38 +123,51 @@
 ```
 16  案例： 性能监控工具之  Grafana + Prometheus + Exporters
 
-17  CentOS: 操作系统级监控及常用计数器解析
+17  CentOS: 操作系统级监控及常用计数器解析（上）
 
-18  Java & C++： 代码级监控及常用计数器解析
+18  CentOS: 操作系统级监控及常用计数器解析（下）
 
-19  Tomcat： 中间件监控及常用计数器解析
+19  Java & C++： 代码级监控及常用计数器解析（上）
 
-20  MySQL & MongoDB： 数据库级监控及常用计数器解析
+20  Java & C++： 代码级监控及常用计数器解析（下）
 
-21  Kafka & RabbitMQ： 队列级监控及常用计数器解析
+21  Tomcat： 中间件监控及常用计数器解析
 
-22  SkyWalking： 链路级监控及常用计数器解析
+22  MySQL & MongoDB： 数据库级监控及常用计数器解析（上）
+
+23  MySQL & MongoDB： 数据库级监控及常用计数器解析（下）
+
+24  Kafka & RabbitMQ： 队列级监控及常用计数器解析
+
+25  SkyWalking： 链路级监控及常用计数器解析
 
 ```
 
 ###  第四模块： 性能测试分析实战篇
 
 ```
-23  性能分析之 CPU分析： 从 CPU 调用高到具体代码行
+  性能分析之 CPU分析： 从 CPU 调用高到具体代码行
 
-24  案例： 手把手带你理解 TPS 趋势分析
+26  案例： 手把手带你理解 TPS 趋势分析
 
-25  案例： 如何理解带宽消耗以及 Swap？（上）
+27  案例： 如何理解带宽消耗以及 Swap？（上）
 
-26  案例： 如何理解带宽消耗以及 Swap？（下）
+28  案例： 如何理解带宽消耗以及 Swap？（下）
 
-27  案例： 如何应对因网络参数导致 TPS 呈锯齿状？
+29  案例： 如何应对因网络参数导致 TPS 呈锯齿状？
 
-28  案例： 为什么参数化数据会导致 TPS 突然下降？
+30  案例： 为什么参数化数据会导致 TPS 突然下降？
 
-29  案例： 当磁盘参数导致 I/O 高的时候，应该怎么办？
+31  案例： 当磁盘参数导致 I/O 高的时候，应该怎么办？
 
-30  案例： 当 Postgres 磁盘读引起 I/O高的时候，应该怎么办？
+32  案例： 当 Postgres 磁盘读引起 I/O高的时候，应该怎么办？
+
+
+--  结束语
+
+结束语  见过林林总总的乱象，才知未来的无限可能
+
+期末测试题  快来测试一下你对性能掌握到何种程度了吧！
 
 ```
 
