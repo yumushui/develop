@@ -54,7 +54,7 @@
 
 core_focus_on_system_performance
 
-![core_focus_on_system_performance.jpg](  "core_focus_on_system_performance.jpg")
+![core_focus_on_system_performance.jpg](https://github.com/yumushui/develop/blob/master/Performance/taohui_performance_tuning_must_konw/core_focus_on_system_performance.jpg  "core_focus_on_system_performance.jpg")
 
 ##  The course catalog
 
