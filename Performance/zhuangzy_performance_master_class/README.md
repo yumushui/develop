@@ -44,7 +44,7 @@
 
 knowledge and skills required for performance and capacity engineering
 
-![skills_required_for_peformance_capacity.jpg](  "skills_required_for_peformance_capacity.jpg")
+![skills_required_for_peformance_capacity.jpg](https://github.com/yumushui/develop/blob/master/Performance/zhuangzy_performance_master_class/skills_required_for_peformance_capacity.jpg  "skills_required_for_peformance_capacity.jpg")
 
 这个专栏中，作者结合自己多年的研究和工作经验，梳理出性能优化和容量效率方面的核心 知识、通用策略和实践经验，通过对每一领域的原则和案例的讲解，带你去掌握必需的软硬技能，让你可以系统地、有条理地根据信息进行性能问题的诊断，最终获得解决问题的能力。
 
