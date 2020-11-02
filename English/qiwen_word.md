@@ -1911,6 +1911,7 @@ contemporary adj.同时代的，同一时期的
 ```
 #  第19节:词汇记忆之接触群体 增长智慧
 继续上节：
+
 ```
 8. convocation n.召集，集会
 1）后缀：-ation 名词后缀；
@@ -1949,7 +1950,6 @@ equilateral a.等边的
 19. provoke v.触怒，煽动
  
 20. provocative adj.激怒人的，激发人的
-
 ```
 
 ##  一、gnos(t),gnor=know,表示“知道”
@@ -1987,10 +1987,13 @@ chaotic adj. 混乱的，无序的；
 2）常见词扩展：surveillance n. 监视；
 endurance n.忍耐力；
 repugnance n. 抵触，反感，厌恶；
-``` 
+
+```
+
 
 ##  二、greg=group,表示“群体”
  
+
 ```
 1. gregarious adj.群居的；爱社交的
 1）后缀：－arious 形容词后缀；
@@ -2031,6 +2034,7 @@ secede v. 脱离，退出；
  
 8. segregation n.（种族）隔离
 ```
+
 
 ```
 ```
