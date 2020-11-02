@@ -2236,7 +2236,7 @@ revise v. 修正，改订
  
  
 ##  一、clear,clar,clair=clear,bright,表示“清楚，明白”
- 
+
 ```
 1. clearance 清算；清除
 2. clarify 澄清，弄清
@@ -2261,11 +2261,11 @@ audience n.听众；观众
 audible adj.听得见的；可听的
 inaudible adj.听不见的
 auditorium n.礼堂；讲堂
-``` 
+```
 
 ##  二、err=wander,mistake,表示“漫游，犯错误”
 error n.错误（err+or）
- 
+
 ```
 1.errant adj.漫游的；错误的
 1）后缀：-ant 形容词后缀或者名词后缀；
